@@ -26,7 +26,7 @@ To use this workflow for your own Node.js application and Azure Web App:
    Fork or Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/mdazfar2/Azure-WebApp-Github-Actions.git
+   git clone https://github.com/leule722/Azure-WebApp-Github-Actions.git
 
 2. **Configure Azure Secrets:**
    - In your GitHub repository settings, add the following secrets:
@@ -59,7 +59,7 @@ Feel free to customize the workflow to suit your specific needs:
    - Adjust deployment settings such as `app-name` and `slot-name` in the `deploy` job.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/mdazfar2/Azure-WebApp-Github-Actions/blob/main/LICENSE).
+
 
 ***if you are facing issues related Azure, don't hesitate to ask me. You can contact with me on-***
 
