@@ -4,7 +4,6 @@ This repository demonstrates how to automate the deployment of a Node.js applica
 
 ## Workflow Overview
 
-The GitHub Actions workflow defined in `.github/workflows/main_azfaralam.yml` has two main jobs:
 
 1. **Build Job:**
    - Checks out the code using `actions/checkout`.
