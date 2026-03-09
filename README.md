@@ -63,4 +63,4 @@ Feel free to customize the workflow to suit your specific needs:
 ***if you are facing issues related Azure, don't hesitate to ask me. You can contact with me on-***
 
 - [LinkedIN](https://linkedin.com/in/melaku-tatek)
-- [Mail Me](melakutatek7@gmail.com)
+- [Mail Me](melakutatek22@gmail.com)
